@@ -40,6 +40,7 @@ PKG_CHECK_MODULES(ZONES,
                   gtk+-2.0 >= 2.14
                   mx-1.0
                   libwnck-1.0
+                  gconf-2.0
                   )
 
 AC_ARG_ENABLE([cache],
