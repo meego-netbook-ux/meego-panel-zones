@@ -5,15 +5,15 @@ AC_CONFIG_MACRO_DIR([m4])
 AM_CONFIG_HEADER(config.h)
 
 AC_CANONICAL_HOST
-#AS_ALL_LINGUAS
-#IT_PROG_INTLTOOL([0.35.0])
+AS_ALL_LINGUAS
+IT_PROG_INTLTOOL([0.35.0])
 
-#GETTEXT_PACKAGE=moblin-panel-zones
-#AC_SUBST(GETTEXT_PACKAGE)
-#AC_DEFINE_UNQUOTED([GETTEXT_PACKAGE],
-#                   ["$GETTEXT_PACKAGE"],
-#                   [Gettext domain name])
-#AM_GLIB_GNU_GETTEXT
+GETTEXT_PACKAGE=moblin-panel-zones
+AC_SUBST(GETTEXT_PACKAGE)
+AC_DEFINE_UNQUOTED([GETTEXT_PACKAGE],
+                   ["$GETTEXT_PACKAGE"],
+                   [Gettext domain name])
+AM_GLIB_GNU_GETTEXT
 
 AC_PROG_CC
 AC_PROG_CC_STDC
@@ -71,4 +71,5 @@ AC_OUTPUT([
         src/Makefile
         data/Makefile
         data/style/Makefile
+        po/Makefile.in
 ])
