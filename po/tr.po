@@ -2,12 +2,12 @@
 # Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
 # This file is distributed under the same license as the PACKAGE package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
+# 
 msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2010-05-11 20:47+0100\n"
+"POT-Creation-Date: 2010-08-27 22:30+0000\n"
 "PO-Revision-Date: \n"
 "Last-Translator: Ahmet Özgür Erdemli <dbl2010@gmail.com>\n"
 "Language-Team: MeeGo Türkçe\n"
@@ -16,35 +16,33 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 "X-Poedit-Language: Turkish\n"
-"X-Poedit-Country: TURKEY\n"
 "X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-Country: TURKEY\n"
 
 #: ../data/moblin-panel-zones.desktop.in.in.h:1
 msgid "Zones panel"
 msgstr "Alanlar paneli"
 
-#: ../data/moblin-panel-zones.desktop.in.in.h:2
-#: ../src/main.c:25
+#: ../data/moblin-panel-zones.desktop.in.in.h:2 ../src/main.c:25
 msgid "zones"
 msgstr "alanlar"
 
-#: ../src/main.c:405
+#: ../src/main.c:412
 msgid "Zones"
 msgstr "Alanlar"
 
 #: ../src/sw-overview.c:240
 msgid "Hello! This is the Zones panel. When you have applications open you will be able to view, manage and access them here."
-msgstr "Merhaba! Bu Alanlar paneli. Açık olan uygulamalarınızı buradan görebilir, yönetebilir ve ulaşabilirsiniz."
+msgstr "Merhaba! Bu, Alanlar panelidir. Açık olan uygulamalarınızı buradan görebilir, yönetebilir ve ulaşabilirsiniz."
 
 #: ../src/sw-zone.c:92
 msgid "New Zone"
-msgstr "Yani Alan"
+msgstr "Yeni Alan"
 
-#: ../src/sw-zone.c:98
-#: ../src/sw-zone.c:1042
+#: ../src/sw-zone.c:98 ../src/sw-zone.c:1042
 #, c-format
 msgid "Zone %d"
-msgstr "Alan: %d"
+msgstr "Alan %d"
 
 #: ../src/sw-zone.c:848
 msgid "No applications on this zone"
