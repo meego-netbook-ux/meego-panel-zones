@@ -2,12 +2,12 @@
 # Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
 # This file is distributed under the same license as the PACKAGE package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
+# 
 msgid ""
 msgstr ""
 "Project-Id-Version: mutter-moblin\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2010-05-11 20:47+0100\n"
+"POT-Creation-Date: 2010-08-27 22:30+0000\n"
 "PO-Revision-Date: 2010-01-22 10:50+0100\n"
 "Last-Translator: Gergely Lónyai <aleph@mandriva.org>\n"
 "Language-Team: Hungarian <aleph@mandriva.org>\n"
@@ -15,50 +15,45 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-Poedit-Language: Hungarian\n"
-"X-Poedit-Country: HUNGARY\n"
 "X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-Country: HUNGARY\n"
 
 #: ../data/moblin-panel-zones.desktop.in.in.h:1
 #, fuzzy
 msgid "Zones panel"
-msgstr "Még nincsenek zónák"
+msgstr "Zónák panel (Még nincsenek zónák)"
 
 #: ../data/moblin-panel-zones.desktop.in.in.h:2 ../src/main.c:25
 msgid "zones"
 msgstr "zónák"
 
-#: ../src/main.c:405
+#: ../src/main.c:412
 #, fuzzy
 msgid "Zones"
-msgstr "zónák"
+msgstr "Zónák"
 
 #: ../src/sw-overview.c:240
-msgid ""
-"Hello! This is the Zones panel. When you have applications open you will be "
-"able to view, manage and access them here."
-msgstr ""
+#, fuzzy
+msgid "Hello! This is the Zones panel. When you have applications open you will be able to view, manage and access them here."
+msgstr "Hello! Ez a zónák panel. Amikor programok meg vannak nyitva itt meg tudja nézni, szerkeszteni őket, illetvei innen hozzájuk férhet."
 
 #: ../src/sw-zone.c:92
 #, fuzzy
 msgid "New Zone"
-msgstr "zónák"
+msgstr "Uj zóna"
 
 #: ../src/sw-zone.c:98 ../src/sw-zone.c:1042
 #, fuzzy, c-format
 msgid "Zone %d"
-msgstr "zónák"
+msgstr "Zóna %d"
 
 #: ../src/sw-zone.c:848
 msgid "No applications on this zone"
 msgstr "Nincs alkalmazás ebben a zónában"
 
 #: ../src/sw-zone.c:1004
-msgid ""
-"Applications you’re using will show up here. You will be able to switch and "
-"organize them to your heart's content."
-msgstr ""
-"A használt alkalmazások itt jelennek meg. Itt tudsz átváltani köztük és "
-"kedved szerint szervezheted őket."
+msgid "Applications you’re using will show up here. You will be able to switch and organize them to your heart's content."
+msgstr "A használt alkalmazások itt jelennek meg. Itt tudsz átváltani köztük és kedved szerint szervezheted őket."
 
 #~ msgid "Moblin Netbook Effects"
 #~ msgstr "Moblin Netbook Effektek"
