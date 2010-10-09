@@ -1,0 +1,56 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2010-08-27 22:30+0000\n"
+"PO-Revision-Date: 2010-10-09 17:00+0000\n"
+"Last-Translator: Torgeir I. Hjelmfoss <tih@inbox.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n!=1;\n"
+"X-Poedit-Language: Norwegian\n"
+"X-Poedit-SourceCharset: utf-8\n"
+
+
+#: ../data/moblin-panel-zones.desktop.in.in.h:1
+msgid "Zones panel"
+msgstr "Sonepanel"
+
+#: ../data/moblin-panel-zones.desktop.in.in.h:2 ../src/main.c:25
+msgid "zones"
+msgstr "soner"
+
+#: ../src/main.c:412
+msgid "Zones"
+msgstr "Soner"
+
+#: ../src/sw-overview.c:240
+msgid ""
+"Hello! This is the Zones panel. When you have applications open you will be "
+"able to view, manage and access them here."
+msgstr ""
+"Hallo! Dette er Sonepanelet. Når du har åpne applikasjoner kan du "
+"se, organisere og få tilgang til dem her."
+
+#: ../src/sw-zone.c:92
+msgid "New Zone"
+msgstr "Ny sone"
+
+#: ../src/sw-zone.c:98 ../src/sw-zone.c:1042
+#, c-format
+msgid "Zone %d"
+msgstr "Sone %d"
+
+#: ../src/sw-zone.c:848
+msgid "No applications on this zone"
+msgstr "Ingen applikasjoner på denne sonen"
+
+#: ../src/sw-zone.c:1004
+msgid ""
+"Applications you’re using will show up here. You will be able to switch and "
+"organize them to your heart's content."
+msgstr ""
+"Applikasjoner du bruker vil vises her. Du kan bytte og organisere "
+"dem etter hjertens lyst. "
