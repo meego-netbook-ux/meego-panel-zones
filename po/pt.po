@@ -1,0 +1,55 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: meego-panel-zone\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2010-10-24 01:37+0000\n"
+"PO-Revision-Date: 2010-10-28 09:56-0000\n"
+"Last-Translator: Sérgio Marques <smarquespt@gmail.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-Language: Portuguese\n"
+"X-Poedit-Country: PORTUGAL\n"
+
+#: ../data/moblin-panel-zones.desktop.in.in.h:1
+msgid "Zones panel"
+msgstr "Painel de zonas"
+
+#: ../data/moblin-panel-zones.desktop.in.in.h:2
+#: ../src/main.c:25
+msgid "zones"
+msgstr "zonas"
+
+#: ../src/main.c:412
+msgid "Zones"
+msgstr "Zonas"
+
+#: ../src/sw-overview.c:240
+msgid "Hello! This is the Zones panel. When you have applications open you will be able to view, manage and access them here."
+msgstr "Olá! Este é o painel de zonas. Se tiver aplicações abertas, aqui é o local onde as pode ver, gerir e aceder."
+
+#: ../src/sw-zone.c:92
+msgid "New Zone"
+msgstr "Nova zona"
+
+#: ../src/sw-zone.c:98
+#: ../src/sw-zone.c:1042
+#, c-format
+msgid "Zone %d"
+msgstr "Zona %d"
+
+#: ../src/sw-zone.c:848
+msgid "No applications on this zone"
+msgstr "Sem aplicações nesta zona"
+
+#: ../src/sw-zone.c:1004
+msgid "Applications you’re using will show up here. You will be able to switch and organize them to your heart's content."
+msgstr "As aplicações que está a utilizar são exibidas aqui. Aqui será capaz de as trocar e organizar consoante o seu conteúdo."
+
