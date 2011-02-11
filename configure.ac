@@ -36,7 +36,7 @@ MEEGO_PANELS_DIR=`$PKG_CONFIG --variable=meego_panel_panels_dir meego-panel`
 AC_SUBST(MEEGO_PANELS_DIR)
 
 PKG_CHECK_MODULES(ZONES,
-                  clutter-gtk-0.10
+                  clutter-gtk-0.12
                   gtk+-2.0 >= 2.14
                   mx-1.0
                   libwnck-1.0
