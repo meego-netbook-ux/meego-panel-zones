@@ -28,7 +28,7 @@ m4_ifdef([AM_SILENT_RULES],[AM_SILENT_RULES([yes])])
 
 
 
-CFLAGS="$CFLAGS -Wall"
+CFLAGS="$CFLAGS -Wall -Wextra -Wno-unused-parameter -Wno-missing-field-initializers"
 
 PKG_CHECK_MODULES(MPL, meego-panel >= 0.50.0)
 
