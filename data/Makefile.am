@@ -11,6 +11,9 @@ desktopfiles_files=$(desktopfiles_in_files:.desktop.in=.desktop)
 if ENABLE_MEEGO_DESKTOP_FILE
 desktopfilesdir=$(MEEGO_PANELS_DIR)/
 desktopfiles_DATA = $(desktopfiles_files)
+
+autostartdir = $(sysconfdir)/xdg/autostart
+autostart_DATA = $(desktopfiles_files)
 endif
 
 %.desktop.in: %.desktop.in.in Makefile
