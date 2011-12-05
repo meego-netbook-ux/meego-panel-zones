@@ -1,49 +1,48 @@
-#
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# 
+# Translators:
 msgid ""
 msgstr ""
-"Project-Id-Version: Moblin UX\n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2010-06-18 17:36+0100\n"
-"PO-Revision-Date: \n"
-"Last-Translator: astur <malditoastur@gmail.com>\n"
-"Language-Team: asturian <alministradores@softastur.org>\n"
+"Project-Id-Version: meego-panel-zones\n"
+"Report-Msgid-Bugs-To: https://bugs.meego.com/\n"
+"POT-Creation-Date: 2011-11-04 12:46+0000\n"
+"PO-Revision-Date: 2010-11-30 11:14+0000\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: Asturian <alministradores@softastur.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Poedit-Language: asturian\n"
-"X-Poedit-SourceCharset: utf-8\n"
-"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"Language: ast\n"
+"Plural-Forms: nplurals=2; plural=(n != 1)\n"
 
 #: ../data/meego-panel-zones.desktop.in.in.h:1
 msgid "Zones panel"
 msgstr "Panel de zones"
 
-# <mousetip of the top of the screen>
 #: ../data/meego-panel-zones.desktop.in.in.h:2 ../src/main.c:25
 msgid "zones"
 msgstr "zones"
 
-# <mousetip of the top of the screen>
-#: ../src/main.c:412
+#: ../src/main.c:495
 msgid "Zones"
 msgstr "Zones"
 
-# <mousetip of the top of the screen>
-#: ../src/sw-zone.c:92
+#: ../src/sw-zone.c:186
 msgid "New Zone"
 msgstr "Nueva zona"
 
-# <mousetip of the top of the screen>
-#: ../src/sw-zone.c:98 ../src/sw-zone.c:1039
+#: ../src/sw-zone.c:192 ../src/sw-zone.c:1276
 #, c-format
 msgid "Zone %d"
 msgstr "Zona %d"
 
-#: ../src/sw-zone.c:845
+#: ../src/sw-zone.c:1075
 msgid "No applications on this zone"
 msgstr "Nun hai denguna aplicación nesta zona"
 
-#: ../src/sw-zone.c:1001
+#: ../src/sw-zone.c:1238
 msgid ""
 "Applications you’re using will show up here. You will be able to switch and "
 "organize them to your heart's content."
@@ -51,9 +50,4 @@ msgstr ""
 "Les aplicaciones que tas usando van amosase equí. Puedes camudales y "
 "organizales como más te preste."
 
-#~ msgid ""
-#~ "Hello! This is the Zones panel. When you have applications open you will "
-#~ "be able to view, manage and access them here."
-#~ msgstr ""
-#~ "¡Hola! Ésti ye'l panel de zones. Cuando tengas aplicaciones abiertes, "
-#~ "podrás veles y acceder a elles dende equí."
+

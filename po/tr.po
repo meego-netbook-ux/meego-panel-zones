@@ -1,23 +1,21 @@
 # SOME DESCRIPTIVE TITLE.
 # Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
 # This file is distributed under the same license as the PACKAGE package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
+# 
+# Translators:
 msgid ""
 msgstr ""
-"Project-Id-Version: \n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2010-06-18 17:36+0100\n"
-"PO-Revision-Date: \n"
-"Last-Translator: Ahmet Özgür Erdemli <dbl2010@gmail.com>\n"
-"Language-Team: MeeGo Türkçe\n"
+"Project-Id-Version: meego-panel-zones\n"
+"Report-Msgid-Bugs-To: https://bugs.meego.com/\n"
+"POT-Creation-Date: 2011-11-04 12:46+0000\n"
+"PO-Revision-Date: 2010-11-30 11:14+0000\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: Turkish (http://www.transifex.net/projects/p/meego/team/tr/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
-"X-Poedit-Language: Turkish\n"
-"X-Poedit-Country: TURKEY\n"
-"X-Poedit-SourceCharset: utf-8\n"
+"Language: tr\n"
+"Plural-Forms: nplurals=1; plural=0\n"
 
 #: ../data/meego-panel-zones.desktop.in.in.h:1
 msgid "Zones panel"
@@ -27,24 +25,24 @@ msgstr "Alanlar paneli"
 msgid "zones"
 msgstr "alanlar"
 
-#: ../src/main.c:412
+#: ../src/main.c:495
 msgid "Zones"
 msgstr "Alanlar"
 
-#: ../src/sw-zone.c:92
+#: ../src/sw-zone.c:186
 msgid "New Zone"
 msgstr "Yani Alan"
 
-#: ../src/sw-zone.c:98 ../src/sw-zone.c:1039
+#: ../src/sw-zone.c:192 ../src/sw-zone.c:1276
 #, c-format
 msgid "Zone %d"
 msgstr "Alan: %d"
 
-#: ../src/sw-zone.c:845
+#: ../src/sw-zone.c:1075
 msgid "No applications on this zone"
 msgstr "Bu alanda bir uygulama yok"
 
-#: ../src/sw-zone.c:1001
+#: ../src/sw-zone.c:1238
 msgid ""
 "Applications you’re using will show up here. You will be able to switch and "
 "organize them to your heart's content."
@@ -52,90 +50,4 @@ msgstr ""
 "Kullandığınız uygulamalar burada gösterilecek. Onları istediğiniz gibi "
 "değiştirip organize edebileceksiniz."
 
-#~ msgid ""
-#~ "Hello! This is the Zones panel. When you have applications open you will "
-#~ "be able to view, manage and access them here."
-#~ msgstr ""
-#~ "Merhaba! Bu Alanlar paneli. Açık olan uygulamalarınızı buradan görebilir, "
-#~ "yönetebilir ve ulaşabilirsiniz."
 
-#~ msgid "Moblin Netbook Effects"
-#~ msgstr "Moblin Netbook Efektleri"
-
-#~ msgid "Effects for Moblin Netbooks"
-#~ msgstr "Moblin Netbooklar için Efektler"
-
-#~ msgid "Dismiss"
-#~ msgstr "Bırak"
-
-#~ msgid "Dismiss All"
-#~ msgstr "Hepsini Bırak"
-
-#~ msgid "Unknown window"
-#~ msgstr "Bilinmeyen pencere"
-
-#~ msgid "Activate"
-#~ msgstr "Etkinleştir"
-
-#~ msgid "%l:%M %P"
-#~ msgstr "%l:%M %P"
-
-#~ msgid "Is asking for your attention."
-#~ msgstr "dikkatinizi çekiyor"
-
-#~ msgid "%B %e, %Y"
-#~ msgstr "%B %e, %Y"
-
-#~ msgid "Less than a minute ago"
-#~ msgstr "Bir dakikadan önce"
-
-#~ msgid "A few minutes ago"
-#~ msgstr "Bir kaç dakika önce"
-
-#~ msgid "A couple of hours ago"
-#~ msgstr "Bir kaç saat önce"
-
-#~ msgid "Earlier today"
-#~ msgstr "Bugün erken saatlerde"
-
-#~ msgid "Yesterday"
-#~ msgstr "Dün"
-
-#~ msgid "On %A"
-#~ msgstr "%A da"
-
-#~ msgid "Last week"
-#~ msgstr "Geçen hafta"
-
-#~ msgid "A couple of weeks ago"
-#~ msgstr "Bir kaç hafta önce"
-
-#~ msgid "This month"
-#~ msgstr "Bu ay"
-
-#~ msgid "Last month"
-#~ msgstr "Geçen ay"
-
-#~ msgid "This year"
-#~ msgstr "Bu yıl"
-
-#~ msgid "Last year"
-#~ msgstr "Geçen yıl"
-
-#~ msgid "Ages ago"
-#~ msgstr "Asırlar önce"
-
-#~ msgid "power & brightness"
-#~ msgstr "güç & parlaklık"
-
-#~ msgid "volume"
-#~ msgstr "ses"
-
-#~ msgid "bluetooth"
-#~ msgstr "bluetooth"
-
-#~ msgid "networks"
-#~ msgstr "ağlar"
-
-#~ msgid "test"
-#~ msgstr "deneme"

@@ -1,53 +1,49 @@
-# Romanian translations for mutter-moblin package.
-# Copyright (C) 2009 The mutter-moblin copyright holder
-# This file is distributed under the same license as the mutter-moblin package.
-# Cosmin Bordeianu <elloxar@gmail.com>, 2009.
-#
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# 
+# Translators:
+# Andreea Sandu <andreea.m.sandu@intel.com>, 2011.
 msgid ""
 msgstr ""
-"Project-Id-Version: mutter-moblin\n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2010-06-18 17:36+0100\n"
-"PO-Revision-Date: 2009-09-14 14:18+0200\n"
-"Last-Translator: Cosmin Bordeianu <elloxar@gmail.com>\n"
-"Language-Team: Moblin Romania <live@moblin.ro>\n"
+"Project-Id-Version: meego-panel-zones\n"
+"Report-Msgid-Bugs-To: https://bugs.meego.com/\n"
+"POT-Creation-Date: 2011-11-04 12:46+0000\n"
+"PO-Revision-Date: 2011-04-04 14:52+0000\n"
+"Last-Translator: minosandu <andreea.m.sandu@intel.com>\n"
+"Language-Team: Romanian (http://www.transifex.net/projects/p/meego/team/ro/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Poedit-Language: Romanian\n"
-"X-Poedit-Country: ROMANIA\n"
-"X-Poedit-SourceCharset: utf-8\n"
+"Language: ro\n"
+"Plural-Forms: nplurals=3; plural=(n==1?0:(((n%100>19)||((n%100==0)&&(n!=0)))?2:1))\n"
 
 #: ../data/meego-panel-zones.desktop.in.in.h:1
-#, fuzzy
 msgid "Zones panel"
-msgstr "Nici o zonă încă"
+msgstr "Secțiunea de zone"
 
 #: ../data/meego-panel-zones.desktop.in.in.h:2 ../src/main.c:25
 msgid "zones"
 msgstr "zone"
 
-#: ../src/main.c:412
-#, fuzzy
+#: ../src/main.c:495
 msgid "Zones"
-msgstr "zone"
+msgstr "Zone"
 
-#: ../src/sw-zone.c:92
-#, fuzzy
+#: ../src/sw-zone.c:186
 msgid "New Zone"
-msgstr "zone"
+msgstr "Zonă nouă"
 
-#: ../src/sw-zone.c:98 ../src/sw-zone.c:1039
-#, fuzzy, c-format
+#: ../src/sw-zone.c:192 ../src/sw-zone.c:1276
+#, c-format
 msgid "Zone %d"
-msgstr "zone"
+msgstr "Zona %d"
 
-#: ../src/sw-zone.c:845
+#: ../src/sw-zone.c:1075
 msgid "No applications on this zone"
 msgstr "Nici o aplicație în această zonă"
 
-#: ../src/sw-zone.c:1001
+#: ../src/sw-zone.c:1238
 msgid ""
 "Applications you’re using will show up here. You will be able to switch and "
 "organize them to your heart's content."
@@ -55,77 +51,4 @@ msgstr ""
 "Aplicațiile folosite vor fi afişate aici. Veți putea să le modificați şi să "
 "le organizați dupa pofta inimii."
 
-#~ msgid "Less than a minute ago"
-#~ msgstr "Mai puțin de un minut"
 
-#~ msgid "A few minutes ago"
-#~ msgstr "Acum câteva minute"
-
-#~ msgid "A couple of hours ago"
-#~ msgstr "Acum câteva ore"
-
-#~ msgid "Earlier today"
-#~ msgstr "Mai devreme"
-
-#~ msgid "Yesterday"
-#~ msgstr "Ieri"
-
-#~ msgid "On %A"
-#~ msgstr "Pe %A"
-
-#~ msgid "Unknown"
-#~ msgstr "Necunoscut"
-
-#~ msgid "Last week"
-#~ msgstr "Săptămâna trecută"
-
-#~ msgid "A couple of weeks ago"
-#~ msgstr "Acum câteva săptămâni"
-
-#~ msgid "This month"
-#~ msgstr "Luna aceasta"
-
-#~ msgid "Last month"
-#~ msgstr "Luna trecută"
-
-#~ msgid "This year"
-#~ msgstr "Anul acesta"
-
-#~ msgid "Last year"
-#~ msgstr "Anul trecut"
-
-#~ msgid "Ages ago"
-#~ msgstr "Mai demult"
-
-#~ msgid "Moblin Netbook Effects"
-#~ msgstr "Efectele Netbook-ului Moblin"
-
-#~ msgid "Effects for Moblin Netbooks"
-#~ msgstr "Efecte pentru Netbook-uri Moblin"
-
-#~ msgid "Dismiss"
-#~ msgstr "Înlăturaţi"
-
-#~ msgid "Dismiss All"
-#~ msgstr "Înlăturaţi Totul"
-
-#~ msgid "%l:%M %P"
-#~ msgstr "%H:%M"
-
-#~ msgid "%B %e, %Y"
-#~ msgstr "%e %B %Y"
-
-#~ msgid "power & brightness"
-#~ msgstr "putere & luminozitate"
-
-#~ msgid "volume"
-#~ msgstr "volum"
-
-#~ msgid "bluetooth"
-#~ msgstr "bluetooth"
-
-#~ msgid "networks"
-#~ msgstr "rețele"
-
-#~ msgid "test"
-#~ msgstr "test"
